@@ -24,12 +24,12 @@
   SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-"Archived Game" = "Archived Game";
+"Archived Game" = "Archiwum Gier";
 
-"OpenEmu Core Plugin" = "OpenEmu Core Plugin";
+"OpenEmu Core Plugin" = "Wtyczki architektur OpenEmu";
 
-"OpenEmu Save State" = "OpenEmu Save State";
+"OpenEmu Save State" = "Zapisy Gier OpenEmu";
 
-"OpenEmu System Plugin" = "OpenEmu System Plugin";
+"OpenEmu System Plugin" = "Wtyczki systemowe OpenEmu";
 
-"OpenEmu Shader" = "OpenEmu Shader";
+"OpenEmu Shader" = "Moduł cieniujący OpenEmu";
