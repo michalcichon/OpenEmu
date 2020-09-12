@@ -1,0 +1,21 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Core"; ObjectID = "46"; */
+"46.headerCell.title" = "Core";
+
+/* Class = "NSTableColumn"; headerCell.title = "Version"; ObjectID = "48"; */
+"48.headerCell.title" = "Version";
+
+/* Class = "NSTableColumn"; headerCell.title = "Console"; ObjectID = "50"; */
+"50.headerCell.title" = "Console";
+
+/* Class = "NSTextFieldCell"; title = "SYSTEM_LIST"; ObjectID = "1wL-0L-GIw"; */
+"1wL-0L-GIw.title" = "SYSTEM_LIST";
+
+/* Class = "NSTextFieldCell"; title = "CORE_NAME"; ObjectID = "GI2-Zv-OvM"; */
+"GI2-Zv-OvM.title" = "CORE_NAME";
+
+/* Class = "NSButtonCell"; title = "INST_UPD"; ObjectID = "NsM-jG-bby"; */
+"NsM-jG-bby.title" = "INST_UPD";
+
+/* Class = "NSTextFieldCell"; title = "VER_STR"; ObjectID = "e3n-l4-cEY"; */
+"e3n-l4-cEY.title" = "VER_STR";

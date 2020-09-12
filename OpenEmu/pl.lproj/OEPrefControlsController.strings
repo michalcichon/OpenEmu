@@ -1,0 +1,21 @@
+
+/* Class = "NSTextFieldCell"; title = "Input:"; ObjectID = "11"; */
+"11.title" = "Input:";
+
+/* Class = "NSMenuItem"; title = "Gamepad"; ObjectID = "15"; Note = "DNT"; */
+"15.title" = "Gamepad";
+
+/* Class = "NSMenuItem"; title = "Keyboard"; ObjectID = "16"; Note = "DNT"; */
+"16.title" = "Keyboard";
+
+/* Class = "NSMenuItem"; title = "Player 2"; ObjectID = "28"; Note = "DNT"; */
+"28.title" = "Player 2";
+
+/* Class = "NSMenuItem"; title = "Player 1"; ObjectID = "29"; Note = "DNT"; */
+"29.title" = "Player 1";
+
+/* Class = "NSMenuItem"; title = "Nintendo (NES)"; ObjectID = "37"; Note = "DNT"; */
+"37.title" = "Nintendo (NES)";
+
+/* Class = "NSMenuItem"; title = "Super Nintendo (SNES)"; ObjectID = "38"; Note = "DNT"; */
+"38.title" = "Super Nintendo (SNES)";
