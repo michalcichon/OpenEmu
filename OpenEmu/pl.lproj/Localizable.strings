@@ -24,9 +24,9 @@
   SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-"%@ copy" = "%@ copy";
+"%@ copy" = "%@ kopia";
 
-"%@ could not be enabled because its plugin was not found." = "%@ could not be enabled because its plugin was not found.";
+"%@ could not be enabled because its plugin was not found." = "%@ nie może zostać włączone ponieważ wtyczka nie została znaleziona.";
 
 "%@ games will appear here. Check out %@ on how to add disc-based games." = "%@ games will appear here. Check out %@ on how to add disc-based games.";
 
@@ -34,25 +34,25 @@
 
 "%ux" = "%ux";
 
-"A version of this plugin is already loaded" = "A version of this plugin is already loaded";
+"A version of this plugin is already loaded" = "Wersja tej wtyczki już jest załadowana";
 
-"Add a Wiimote…" = "Add a Wiimote…";
+"Add a Wiimote…" = "Dodaj Wiimote…";
 
-"Add Cheat…" = "Add Cheat…";
+"Add Cheat…" = "Dodaj Cheat…";
 
-"Add Cheat" = "Add Cheat";
+"Add Cheat" = "Dodaj Cheat";
 
-"Add Cover Art from File…" = "Add Cover Art from File…";
+"Add Cover Art from File…" = "Dodaj okładkę z pliku…";
 
-"Add to Collection" = "Add to Collection";
+"Add to Collection" = "Dodaj do kolekcji";
 
-"All Games" = "All Games";
+"All Games" = "Wszystkie gry";
 
-"All Homebrew" = "All Homebrew";
+"All Homebrew" = "Wszystkie gry homebrew";
 
-"Are you sure you want to delete %ld save games from your OpenEmu library?" = "Are you sure you want to delete %ld save games from your OpenEmu library?";
+"Are you sure you want to delete %ld save games from your OpenEmu library?" = "Czy na pewno usunąć %ld zapisanych gier z Twojej biblioteki OpenEmu?";
 
-"Are you sure you want to delete %ld screenshots from your OpenEmu library?" = "Are you sure you want to delete %ld screenshots from your OpenEmu library?";
+"Are you sure you want to delete %ld screenshots from your OpenEmu library?" = "Czy na pewno usunąć %ld zrzutów ekranu z Twojej biblioteki OpenEmu?";
 
 "Are you sure you want to delete the save game called '%@' from your OpenEmu library?" = "Are you sure you want to delete the save game called “%@” from your OpenEmu library?";
 
@@ -68,73 +68,73 @@
 
 "Are you sure you want to remove the selected games from the collection?" = "Are you sure you want to remove the selected games from the collection?";
 
-"Are you sure you want to remove this collection?" = "Are you sure you want to remove this collection?";
+"Are you sure you want to remove this collection?" = "Czy na pewno chcesz usunąć tę kolekcję?";
 
-"Are you sure you want to reset the console?" = "Are you sure you want to reset the console?";
+"Are you sure you want to reset the console?" = "Czy na pewno chcesz usunąć tę konsolę?";
 
-"Are you sure you want to stop emulation?" = "Are you sure you want to stop emulation?";
+"Are you sure you want to stop emulation?" = "Czy na pewno chcesz zatrzymać emulację?";
 
-"At least one System must be enabled" = "At least one System must be enabled";
+"At least one System must be enabled" = "Przynajmniej jeden system powinien być włączony";
 
-"Auto Save State" = "Auto Save State";
+"Auto Save State" = "Autozapis";
 
-"Automatically Import" = "Automatically Import";
+"Automatically Import" = "Import automatyczny";
 
-"Bluetooth must be enabled to pair a Wii controller." = "Bluetooth must be enabled to pair a Wii controller.";
+"Bluetooth must be enabled to pair a Wii controller." = "Bluetooth musi być włączony aby sparować kontroler Wii.";
 
-"Bluetooth Not Enabled" = "Bluetooth Not Enabled";
+"Bluetooth Not Enabled" = "Bluetooth jest niedostępny";
 
-"Cancel Cover Art Download" = "Cancel Cover Art Download";
+"Cancel Cover Art Download" = "Zatrzymaj ściąganie okładki";
 
-"Cancel" = "Cancel";
+"Cancel" = "Anuluj";
 
-"Change Core" = "Change Core";
+"Change Core" = "Zmieć rdzeń";
 
-"Change Volume" = "Change Volume";
+"Change Volume" = "Zmień głośność";
 
-"Cheat Description" = "Cheat Description";
+"Cheat Description" = "Opis Cheat'a";
 
-"Check out some excellent homebrew games." = "Check out some excellent homebrew games.";
+"Check out some excellent homebrew games." = "Zobacz kilka doskonałych gier typu homebrew.";
 
-"Choose a valid file." = "Choose a valid file.";
+"Choose a valid file." = "Wybierz prawidłowy plik.";
 
-"Choose Library…" = "Choose Library…";
+"Choose Library…" = "Wybierz bibliotekę…";
 
-"Choose OpenEmu Library" = "Choose OpenEmu Library";
+"Choose OpenEmu Library" = "Wybierz bibliotekę OpenEmu";
 
-"Choose Yes to remove all items from the queue. Items that finished importing will be preserved in your library." = "Choose Yes to remove all items from the queue. Items that finished importing will be preserved in your library.";
+"Choose Yes to remove all items from the queue. Items that finished importing will be preserved in your library." = "Wybierz \"Tak\" aby usunąć wszystko z kolejki. Elementy zimportowane zostaną zachowane w bibliotece.";
 
-"Code:" = "Code:";
+"Code:" = "Kod:";
 
-"Collections" = "Collections";
+"Collections" = "Kolekcje";
 
-"Configure Shader…" = "Configure Shader…";
+"Configure Shader…" = "Skonfiguruj moduł cieniujący…";
 
-"Consoles" = "Consoles";
+"Consoles" = "Konsole";
 
-"Consolidate Files…" = "Consolidate Files…";
+"Consolidate Files…" = "Konsoliduj pliki…";
 
-"Consolidate" = "Consolidate";
+"Consolidate" = "Konsoliduj";
 
-"Consolidating files failed." = "Consolidating files failed.";
+"Consolidating files failed." = "Konsolidowanie plików nie powiodło się.";
 
-"Consolidating will copy all of the selected games into the OpenEmu Library folder.\n\nThis cannot be undone." = "Consolidating will copy all of the selected games into the OpenEmu Library folder.\n\nThis cannot be undone.";
+"Consolidating will copy all of the selected games into the OpenEmu Library folder.\n\nThis cannot be undone." = "Konsolidowanie skopiuje wszystkie zaznaczone gry do folderu biblioteki OpenEmu.\n\nTa operacja nie może zostać odwrócona.";
 
-"Controls" = "Controls";
+"Controls" = "Sterowanie";
 
-"Copying artwork failed!" = "Copying artwork failed!";
+"Copying artwork failed!" = "Kopiowanie okładek nie powiodło się!";
 
-"Copying Artwork Files…" = "Copying Artwork Files…";
+"Copying Artwork Files…" = "Kopiowanie okłądek…";
 
-"Copying Game Files…" = "Copying Game Files…";
+"Copying Game Files…" = "Kopiowanie plików gier…";
 
-"Copying ROM Files…" = "Copying ROM Files…";
+"Copying ROM Files…" = "Kopiowanie plików ROM…";
 
-"Copying ROM files failed!" = "Copying ROM files failed!";
+"Copying ROM files failed!" = "Kopiowanie plików ROM nie powiodło się!";
 
-"Core Provided By…" = "Core Provided By…";
+"Core Provided By…" = "Rdzeń dostarczony przez…";
 
-"Cores" = "Cores";
+"Cores" = "Rdzenie";
 
 "Could not move library data!" = "Could not move library data!";
 
@@ -168,7 +168,7 @@
 
 "Delete Screenshots" = "Delete Screenshots";
 
-"Delete" = "Delete";
+"Delete" = "Usuń";
 
 "Description" = "Description"; // Search field menu, only search description
 
@@ -290,7 +290,7 @@
 
 "Mute Audio" = "Mute Audio";
 
-"Name" = "Name"; // Search field menu, only search names
+"Name" = "Nazwa"; // Search field menu, only search names
 
 "New Collection from Selection" = "New Collection from Selection";
 
@@ -310,9 +310,9 @@
 
 "No Screenshots Found" = "No Screenshots Found";
 
-"No" = "No";
+"No" = "Nie";
 
-"None" = "None";
+"None" = "Żaden";
 
 "OK" = "OK";
 
@@ -332,9 +332,9 @@
 
 "OpenEmu will save and quit all games that are currently running." = "OpenEmu will save and quit all games that are currently running.";
 
-"Options" = "Options";
+"Options" = "Opcje";
 
-"Pause Emulation" = "Pause Emulation";
+"Pause Emulation" = "Zatrzymaj emulację";
 
 "Pause Gameplay" = "Pause Gameplay";
 
@@ -358,7 +358,7 @@
 
 "Quick Save" = "Quick Save";
 
-"Quit" = "Quit";
+"Quit" = "Wyjdź";
 
 "Rating" = "Rating";
 
@@ -452,9 +452,9 @@
 
 "Switch To List View" = "Switch To List View";
 
-"System Default" = "System Default"; // Default audio device setting
+"System Default" = "Ustawienia systemowe"; // Default audio device setting
 
-"System Files" = "System Files";
+"System Files" = "Pliki systemowe";
 
 "System" = "System";
 
@@ -510,7 +510,7 @@
 
 "Would you like to save your game before you quit?" = "Would you like to save your game before you quit?";
 
-"Yes" = "Yes";
+"Yes" = "Tak";
 
 "You can't move your library into one of its subfolders." = "You can’t move your library into one of its subfolders.";
 
@@ -520,11 +520,11 @@
 
 "Your library was moved sucessfully." = "Your library was moved sucessfully.";
 
-"Library" = "Library";
+"Library" = "Biblioteka";
 
-"Save States" = "Save States";
+"Save States" = "Zapisy gier";
 
-"Screenshots" = "Screenshots";
+"Screenshots" = "Zrzuty ekranu";
 
 "Homebrew" = "Homebrew";
 
@@ -558,17 +558,17 @@
 
 "This plugin is currently unsupported" = "This plugin is currently unsupported";
 
-"Install %@" = "Install %@";
+"Install %@" = "Instaluj %@";
 
 "Install %@ and Set as Default" = "Install %@ and Set as Default";
 
-"Ignore" = "Ignore";
+"Ignore" = "Ignoruj";
 
 "OpenEmu requires additional permissions" = "OpenEmu requires additional permissions";  // Headline for Input Monitoring permissions
 
 "OpenEmu must be granted the Input Monitoring permission in order to use the keyboard as an input device.\n\nToggling the permission may also resolve keyboard input issues." = "OpenEmu must be granted the Input Monitoring permission in order to use the keyboard as an input device.\n\nToggling the permission may also resolve keyboard input issues.";  // "Message for Input Monitoring permissions"
 
-"Show" = "Show";
+"Show" = "Pokaż";
 
 "Moving the Game Library is not recommended" = "Moving the Game Library is not recommended";  //Message headline (attempted to change location of library)
 
@@ -701,7 +701,7 @@
 
 "Unchecked" = "Unchecked";  // Default value tooltip for checkboxes: unchecked default
 
-"Shaders" = "Shaders";
+"Shaders" = "Moduły cieniujące";
 
 "Clear shader cache" = "Clear shader cache";
 

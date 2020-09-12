@@ -1,21 +1,21 @@
 
 /* Class = "NSWindow"; title = "About"; ObjectID = "793"; */
-"793.title" = "About";
+"793.title" = "O...";
 
 /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "803"; Note = "DNT"; */
 "803.title" = "Label";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "971"; */
-"971.title" = "Edit";
+"971.title" = "Edytuj";
 
 /* Class = "NSMenuItem"; title = "Controls"; ObjectID = "972"; */
 "972.title" = "Controls";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "973"; */
-"973.title" = "View";
+"973.title" = "Widok";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "974"; */
-"974.title" = "Window";
+"974.title" = "Okno";
 
 /* Class = "NSMenuItem"; title = "OpenEmu"; ObjectID = "975"; Note = "DNT"; */
 "975.title" = "OpenEmu";
@@ -45,7 +45,7 @@
 "986.title" = "Library";
 
 /* Class = "NSMenuItem"; title = "Add to Library…"; ObjectID = "987"; */
-"987.title" = "Add to Library…";
+"987.title" = "Dodaj do biblioteki…";
 
 /* Class = "NSMenuItem"; title = "Display Exact Duplicates"; ObjectID = "990"; */
 "990.title" = "Display Exact Duplicates";
